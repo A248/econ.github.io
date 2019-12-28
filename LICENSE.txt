@@ -1,0 +1,13 @@
+Summa Economicae
+by Anand Beh
+
+Specifications regarding the contents of this repository:
+1. You are permitted to distribute content:
+  A.) In text-based format, in the form of a quotation or citation, provided you include and note the title and author of the source; for example "Summma Economicae by Anand Beh" or "A248's Summa Economicae".
+  B.) Through any sort of web links, provided the link points directly to this repository's contents through the domain "econ.arim.space". For example, you are not allowed to "wrap" a link to content in an adfly link.
+2. You may not distribute content through content mediums except those for which I have granted express permission.
+3. These specifications may change. Users are not held liable in the case that an update to these specifications invalidates a previous instance of distribution.
+
+Notices:
+1. I am not a lawyer.
+2. I reserve the ultimate right to change content at any time.
