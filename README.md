@@ -4,7 +4,7 @@ This site is still under construction.
 
 ## Introduction
 
-To this location will my economics writings be published.
+To this location will economics writings be published.
 
 ## Contact
 
