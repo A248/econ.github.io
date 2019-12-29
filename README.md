@@ -2,10 +2,6 @@
 
 This site is still under construction.
 
-## Introduction
-
-To this location will economics writings be published.
-
 ## Contact
 
 * Github: A248
