@@ -2,4 +2,4 @@
 permalink: /
 ---	
 
-Information here.
+Economics is about costs and benefits.
