@@ -6,3 +6,4 @@
 
 **Objection 3**: The scope of a study is defined by its adherents. But economists very precisely focus on some matters and ignore others. Therefore economics is likewise restrained.
 
+**On the contrary**, economics is concerned with the maximisation of efficiency, that the benefits of a course of action prevail over costs. Accordingly economics is limited only to situations of cost and benefit.
